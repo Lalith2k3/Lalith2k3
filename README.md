@@ -69,9 +69,9 @@ My approach to AI engineering:
 ### 🚀 Things I've built
 
 <details>
-<summary><b>🤖 Multi-Agent AI for Pipeline Operations</b></summary>
+<summary>🤖 Multi-Agent AI for Pipeline Operations</summary>
 
-
+<br/>
 
 A multi-agent system that helps users query infrastructure, telemetry, alarms, and operational data using natural language.
 
@@ -89,8 +89,9 @@ Worked on agent orchestration, tool calling, structured state, async execution, 
 </details>
 
 <details>
-<summary><b>📚 Industrial Regulatory & OT Knowledge Assistant</b></summary>
+<summary>📚 Industrial Regulatory & OT Knowledge Assistant</summary>
 
+<br/>
 
 A RAG system designed to answer questions from industrial regulations and technical documents while keeping responses grounded in source material.
 
@@ -111,8 +112,9 @@ Grounded Answer + Citations
 </details>
 
 <details>
-<summary><b>🏥 Employee Wellness & Telehealth Platform</b></summary>
+<summary>🏥 Employee Wellness & Telehealth Platform</summary>
 
+<br/>
 
 A full-stack platform with role-based experiences for employees, employers, and clinicians.
 
