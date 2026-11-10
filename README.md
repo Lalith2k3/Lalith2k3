@@ -138,6 +138,13 @@ Agentic AI · Multi-Agent Systems · RAG · Tool Calling · Structured Outputs �
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </a>
 
+<a href = "https://www.docker.com/">
+  <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/docker-full-logo" />
+</a>
+<a href = "https://azure.microsoft.com/en-us/products/ai-foundry">
+  <img src = "https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry" />
+</a>
+
 ### 🚀 Things I've built
 
 <details>
