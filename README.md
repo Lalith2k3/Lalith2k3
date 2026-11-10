@@ -139,10 +139,15 @@ Agentic AI · Multi-Agent Systems · RAG · Tool Calling · Structured Outputs �
 </a>
 
 <a href = "https://www.docker.com/">
-  <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/docker-full-logo" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </a>
+
+<a href="https://aws.amazon.com/bedrock/">
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
 <a href = "https://azure.microsoft.com/en-us/products/ai-foundry">
-  <img src = "https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry" />
+  <img src="https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 
 ### 🚀 Things I've built
